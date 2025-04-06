@@ -43,5 +43,5 @@ variable "os" {
 variable "pricing_plan" {
   description = "Pricing plan of the azure service plan"
   type = string
-  default = "B1"
+  default = "S1"
 }
